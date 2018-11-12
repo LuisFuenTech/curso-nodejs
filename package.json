@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-curso",
+  "version": "1.0.0",
+  "description": "Un curso de Node JS",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFuenTech/curso-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "Luis Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisFuenTech/curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/LuisFuenTech/curso-nodejs#readme"
+}

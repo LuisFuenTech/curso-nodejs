@@ -1,4 +1,5 @@
 const http = require('http');
+const colors = require('colors');
 
 const handleServer = function(req, res){
     res.writeHead(200, {'Content-type': 'text/html'})
@@ -7,4 +8,4 @@ const handleServer = function(req, res){
 }
 
 const server = http.createServer(handleServer);
-server.listen(3000, () => console.log('Server is working!'));
+server.listen(3000, () => console.log('Server is working!'.cyan));

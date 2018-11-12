@@ -9,7 +9,7 @@ const handleServer = function (request, response){
 }
 const server = http.createServer(handleServer);
 
-server.listen(3000, () => {console.log('Server in port 3000'.cyan);
+server.listen(3000, () => {console.log('Server is working on port 3000'.cyan);
 })
 
 /*
