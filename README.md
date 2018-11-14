@@ -1,7 +1,7 @@
-# Curso Node Js
-Repositorio hecho de la práctica de un curso de Node Js.
+# Node Js course
+Repository made from the result of a Node Js course
 
-## Contenido
-* Http: Contiene primer servidor
-* Server-test: Contiene un servidor de prueba
-* Modules: Contiene ejemplo de exportar objetos
+## Content
+* Http: This directory hace the server
+* Server-test: A server for testings
+* Modules: Examples
